@@ -1,0 +1,39 @@
+{
+  "_from": "github:fastogt/fastspring-fastogt-nodejs",
+  "_id": "fastspring-fastogt-nodejs@1.1.0",
+  "_inBundle": false,
+  "_location": "/fastspring-fastogt-nodejs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "fastspring-fastogt-nodejs@github:fastogt/fastspring-fastogt-nodejs",
+    "name": "fastspring-fastogt-nodejs",
+    "escapedName": "fastspring-fastogt-nodejs",
+    "rawSpec": "github:fastogt/fastspring-fastogt-nodejs",
+    "saveSpec": "github:fastogt/fastspring-fastogt-nodejs",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:fastogt/fastspring-fastogt-nodejs#24af81e556a5076a681cb1e9d8c54cb33579352f",
+  "_spec": "fastspring-fastogt-nodejs@github:fastogt/fastspring-fastogt-nodejs",
+  "_where": "/home/fastoredis/fastoredis_site",
+  "author": {
+    "name": "Alexandr Topilski"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request-json": "^0.5.2"
+  },
+  "deprecated": false,
+  "description": "fastsring api wrapper for nodejs",
+  "license": "BSD 3",
+  "main": "index.js",
+  "name": "fastspring-fastogt-nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
